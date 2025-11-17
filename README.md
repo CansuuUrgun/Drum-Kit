@@ -23,7 +23,7 @@ The project was created to practice **DOM manipulation, event handling, and Java
 
 ## 📌 Demo
 Add your live demo link here, for example:  
-[Play Drum Kit](https://yourusername.github.io/drum-kit/)
+[Play Drum Kit](https://cansuuurgun.github.io/Drum-Kit/)
 
 ## 📝 Author
 Developed by **Cansu Urgun**  

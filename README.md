@@ -27,4 +27,4 @@ Add your live demo link here, for example:
 
 ## 📝 Author
 Developed by **Cansu Urgun**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/kendi-linkedin-urlin)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cansu-urgun/)

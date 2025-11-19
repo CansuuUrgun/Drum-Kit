@@ -22,7 +22,6 @@ The project was created to practice **DOM manipulation, event handling, and Java
 - Fun and educational project for JavaScript practice
 
 ## 📌 Demo
-Add your live demo link here, for example:  
 [Play Drum Kit](https://cansuuurgun.github.io/Drum-Kit/)
 
 ## 📝 Author
